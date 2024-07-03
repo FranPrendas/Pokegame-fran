@@ -19,6 +19,12 @@ npm run build
 ```
 npm run lint
 ```
+### Descripción 
+```
+Este proyecto busca crear un appweb que interacciona con un api de pokémon, recreando la mitica trivia del porgrama, la cual es ¿Quién es este pokémon?, además acude a la nostalguia con una estetica de gameboy.
+```
+### Contacto 
+[instagra: ](https://www.instagram.com/fran_prendas/)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
