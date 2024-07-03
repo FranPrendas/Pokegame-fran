@@ -277,7 +277,8 @@ button {
 .btns-right button {
   font-size: 1.5rem;
   padding: 10px 20px;
-   overflow: hidden;
+  height: fit-content;
+  margin-inline: 5px;
 }
 
 .borders {
