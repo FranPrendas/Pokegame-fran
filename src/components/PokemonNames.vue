@@ -88,7 +88,7 @@ button {
 }
 
 .btns {
-  height: 230px;
+  height: 290px;
   display: flex;
   flex-direction: column;
 }
