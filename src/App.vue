@@ -173,7 +173,7 @@ export default {
       showPopup.value = true;
       setTimeout(() => {
         showPopup.value = false;
-      }, 1000); // Cierra el popup después de 2 segundos
+      }, 1000);
     };
 
     reloadPokemon();
